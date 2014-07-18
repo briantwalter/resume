@@ -42,10 +42,10 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 > Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure`
 
 > Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry`
-E
-> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere` `vSPhere/ESXi` 
+
+> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere` `vSphere/ESXi` 
 
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
 ### passions
-> Making nice things.
+> Making nice things and using them.
