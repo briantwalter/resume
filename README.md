@@ -39,11 +39,13 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 
 > Can write queries in `MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase`
 
-> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` 
+> Veteran of architecture and design `distributed systems` `cloud-native applications` `converged infrastructure`
 
-> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere`
+> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry`
+E
+> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere` `vSPhere/ESXi` 
 
-> Fluent with tools such as `Wireshark/tcpdump` `Tableau Desktop` `Excel`
+> Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
 ### passions
 > Making nice things.
