@@ -1,7 +1,7 @@
 # resume for @briantwalter
 
 ### summary
-> Values functional solutions over documented processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation trumps historical analysis.  Evolved from observe to participate to shape to experiment.
+> Values functional solutions over documented processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation trumps historical analysis.  Favors speed with feedback over perfection.  Evolved from observe to participate to shape to experiment.
 
 ### experience
 `EMC Corporation` **Advisory Systems Engineer** *2007-present*
@@ -35,7 +35,10 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 > **ITIL Service Management Essentials**, Pink Elephant (2006)
 
 ### skills
-> Growing skills in `git` markdown.
+> Comfortable programming in `bash` `perl` `nodejs` `python` `php` 
+> Can write queries in `MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase`
+> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` 
+> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere`
 
 ### passions
 > Making nice things.
