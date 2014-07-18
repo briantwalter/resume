@@ -36,8 +36,11 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 
 ### skills
 > Comfortable programming in `bash` `perl` `nodejs` `python` `php` 
+
 > Can write queries in `MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase`
+
 > Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` 
+
 > Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere`
 
 ### passions
