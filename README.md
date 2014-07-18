@@ -1,7 +1,7 @@
 # resume for @briantwalter
 
 ### summary
-> Values functional solutions over processes.  Views challenges as puzzles versus obstacles.  Prefers collaboration over assigment.  Believes anticipation trumps historical analysis.
+> Values functional solutions over documented processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation trumps historical analysis.  Evolved from observe to participate to shape to experiment.
 
 ### experience
 `EMC Corporation` **Advisory Systems Engineer** *2007-present*
@@ -35,7 +35,7 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 > **ITIL Service Management Essentials**, Pink Elephant (2006)
 
 ### skills
-> Markdown?
+> Growing skills in `git` markdown.
 
 ### passions
 > Making nice things.
