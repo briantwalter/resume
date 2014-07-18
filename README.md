@@ -1,10 +1,8 @@
 # resume for @briantwalter
 
-### objective
+### qualifications
 
-### summary of qualifications
-
-### professional experience
+### experience
 `EMC Corporation` **Advisory Systems Engineer** *2007-present*
 > Details about what I do at EMC go here and this is a test of a long sentence
 with a CR because I didn't want it to wrap 80 characters in a terminal.
@@ -21,8 +19,8 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 `Lucent Technologies` **UNIX Systems Engineer** *2000-2001*
 > Lucent details here.
 
-### higher education
-B.A. LUS Geographic Information Systems, Metropolitan State College, Denver (1999)
+### education
+> B.A. LUS Geographic Information Systems, Metropolitan State College, Denver (1999)
 
 ### skills
 
