@@ -1,7 +1,7 @@
 # resume for @briantwalter
 
 ### summary
-> Values functional solutions over documented processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation is a time management skill.  Favors speed with feedback over perfection.  Evolved from observe to participate to shape to experiment.
+> Values functional solutions over documented processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation is time management.  Favors speed with feedback over perfection.  Evolved from observe to participate to shape to experiment.
 
 ### employment
 EMC Corporation **Advisory Systems Engineer** *2007-present*
@@ -40,11 +40,13 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 
 > Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure`
 
-> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry`
+> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `SAN`
 
-> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere` `vSphere/ESXi` 
+> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere` `vSphere/ESXi`
 
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
+
+> Confident presense when `public speaking` `sales presentations` `handling objections` `negotiating`
 
 ### passions
 > Making nice things and having them.
