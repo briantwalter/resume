@@ -39,7 +39,7 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 
 > Can write queries in `MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase`
 
-> Veteran of architecture and design `distributed systems` `cloud-native applications` `converged infrastructure`
+> Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure`
 
 > Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry`
 E
