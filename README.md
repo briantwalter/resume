@@ -43,5 +43,7 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 
 > Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere`
 
+> Fluent with tools such as `Wireshark/tcpdump` `Tableau Desktop` `Excel`
+
 ### passions
 > Making nice things.
