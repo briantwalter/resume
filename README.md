@@ -3,7 +3,7 @@
 ### summary
 > Values functional solutions over documented processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation trumps historical analysis.  Favors speed with feedback over perfection.  Evolved from observe to participate to shape to experiment.
 
-### experience
+### employment
 EMC Corporation **Advisory Systems Engineer** *2007-present*
 > EMC details.
 
@@ -47,8 +47,12 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
 ### passions
-> + Making nice things and having them.
-> + Automating all the things.
-> + Data driven decision making.
-> + Writing and re-writing software.
-> + SCUBA diving.
+> Making nice things and having them.
+
+> Automating all the things.
+
+> Data driven decision making.
+
+> Writing and re-writing software.
+
+> SCUBA diving.
