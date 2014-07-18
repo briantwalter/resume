@@ -1,4 +1,13 @@
-resume
-======
+# Resume for @briantwalter
 
-Resume for Brian Walter
+##### Objective
+
+##### Summary of Qualifications
+
+##### Professional Experience
+
+##### Education and Training
+
+##### Skills
+
+##### Behaviors
