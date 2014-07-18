@@ -5,9 +5,7 @@
 ### summary of qualifications
 
 ### professional experience
-`2007-present`
-
-EMC Corporation **Advisory Systems Engineer** 
+`2007-present` EMC Corporation **Advisory Systems Engineer** 
 > Details about what I do at EMC go here and this is a test of a long sentence
 with a CR because I didn't want it to wrap 80 characters in a terminal.
 
