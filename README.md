@@ -24,10 +24,10 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 
 ### certifications
 > **EMC Proven Information Infrastructure Expert**, EMC (2013)
-> VMware Certified Professional VCP5, VMware  (2013)
-> EMC Proven Information Infrastructure Specialist, EMC (2009)
-> EMC Proven Information Storage Associate, EMC (2007)
-> ITIL Service Management Essentials, Pink Elephant (2006)
+> **VMware Certified Professional VCP5**, VMware  (2013)
+> **EMC Proven Information Infrastructure Specialist**, EMC (2009)
+> **EMC Proven Information Storage Associate**, EMC (2007)
+> **ITIL Service Management Essentials**, Pink Elephant (2006)
 
 ### skills
 
