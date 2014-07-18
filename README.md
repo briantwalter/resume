@@ -47,8 +47,9 @@
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
 ### passions
-> Making nice things and having them.
-> Data driven decision making.
-> Writing and re-writing software.
-> Deploying and re-deploying software.
-> SCUBA diving.
++ Making nice things and having them.
++ Automating all the things.
++ Data driven decision making.
++ Writing and re-writing software.
++ Deploying and re-deploying software.
++ SCUBA diving.
