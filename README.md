@@ -48,15 +48,17 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 
 > Confident presense when `public speaking` `handling objections` `negotiating`
 
-> Anxious to do more with `redis` `hadoop` `memcached` `golang` `libvirt`
+> Anxious to do more with `redis` `hadoop` `memcached` `golang` `libvirt` `docker`
 
 ### passions
 > Making nice things and having them.
 
 > Automating all the things.
 
+> Connecting all the things with APIs.
+
 > Data driven decision making.
 
-> Writing and re-writing software.
+> Writing and using software.
 
 > SCUBA diving.
