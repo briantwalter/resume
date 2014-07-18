@@ -23,12 +23,11 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 > B.A. LUS Geographic Information Systems, Metropolitan State College, Denver (1999)
 
 ### certifications
---- | --- | ---
-EMC Proven Storage & Information Infrastructure Expert | EMC  | (2013)
-VMware Certified Professional VCP5 | VMware | (2013)
-EMC Proven Storage & Information Infrastructure Specialist | EMC | (2009)
-EMC Proven Information Storage Associate | EMC | (2007)
-ITIL Service Management Essentials | Pink Elephant | (2006)
+> **EMC Proven Information Infrastructure Expert**, EMC (2013)
+> VMware Certified Professional VCP5, VMware  (2013)
+> EMC Proven Information Infrastructure Specialist, EMC (2009)
+> EMC Proven Information Storage Associate, EMC (2007)
+> ITIL Service Management Essentials, Pink Elephant (2006)
 
 ### skills
 
