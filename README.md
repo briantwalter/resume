@@ -9,12 +9,10 @@
 > Details about what I do at EMC go here and this is a test of a long sentence
 with a CR because I didn't want it to wrap 80 characters in a terminal.
 
-##### Port of Seattle, IT Service Delivery 2005-2007
-`Manager, System Operations` 
+`Port of Seattle` **Manager, System Operations** *2005-2007*
 > Port details.
 
-##### Bank of America, Application Support Management 2002-2004
-`Systems Architect/Engineer`
+`Bank of America` **Systems Architect/Engineer** *2002-2004*
 > BofA details here.
 
 ##### CSG Systems, Technical Infrastrucure *BU aquired from Lucent* 2001-2002
