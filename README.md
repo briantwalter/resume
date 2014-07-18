@@ -46,7 +46,7 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
-> Confident presense when `public speaking` `sales presentations` `handling objections` `negotiating`
+> Confident presense when `public speaking` `handling objections` `negotiating`
 
 ### passions
 > Making nice things and having them.
