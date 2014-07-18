@@ -15,15 +15,13 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 `Bank of America` **Systems Architect/Engineer** *2002-2004*
 > BofA details here.
 
-##### CSG Systems, Technical Infrastrucure *BU aquired from Lucent* 2001-2002
-`Systems Engineer`
+`CSG Systems (BU aquired from Lucent)` **Systems Engineer** *2001-2002*
 > CSG details here.
 
-##### Lucent Technologies, Technical Infrastructure 2000-2001
-`UNIX Systems Engineer`
+`Lucent Technologies` **UNIX Systems Engineer** *2000-2001*
 > Lucent details here.
 
-### education and training
+### higher education
 B.A. LUS Geographic Information Systems, Metropolitan State College, Denver (1999)
 
 ### skills
