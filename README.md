@@ -1,19 +1,17 @@
-# @briantwalter
+# resume for @briantwalter
 
-### Objective
+### objective
 
-### Summary of Qualifications
+### summary of qualifications
 
-### Professional Experience
-
-EMC Corporation | Advisory Presales Systems Engineer | 2007-present
-
+### professional experience
+`EMC Corporation` `Advisory Presales Systems Engineer` `2007-present`
 > Details about what I do at EMC go here and this is a test of a long sentence
 with a CR because I didn't want it to wrap 80 characters in a terminal.
 
 
-### Education and Training
+### education and training
 
-### Skills
+### skills
 
-### Behaviors
+### behaviors
