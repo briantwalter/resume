@@ -5,20 +5,19 @@
 
 ### experience
 `EMC Corporation` **Advisory Systems Engineer** *2007-present*
-> Details about what I do at EMC go here and this is a test of a long sentence
-with a CR because I didn't want it to wrap 80 characters in a terminal.
+> EMC details.
 
 `Port of Seattle` **Manager, System Operations** *2005-2007*
 > Port details.
 
 `Bank of America` **Systems Architect/Engineer** *2002-2004*
-> BofA details here.
+> BofA details.
 
 `CSG Systems` **Systems Engineer** *2001-2002*
-> CSG details here.
+> CSG details.
 
 `Lucent Technologies` **UNIX Systems Engineer** *2000-2001*
-> Lucent details here.
+> Lucent details.
 
 ### education
 > B.A. LUS Geographic Information Systems, Metropolitan State College, Denver (1999)
@@ -35,7 +34,7 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 > **ITIL Service Management Essentials**, Pink Elephant (2006)
 
 ### skills
-> Comfortable programming in `bash` `perl` `nodejs` `python` `php` 
+> Comfortable programming in `bash` `perl` `nodejs` `python` `php` `html`
 
 > Can write queries in `MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase`
 
@@ -48,4 +47,8 @@ with a CR because I didn't want it to wrap 80 characters in a terminal.
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
 ### passions
-> Making nice things and using them.
+> Making nice things and having them.
+> Data driven decision making.
+> Writing and re-writing software.
+> Deploying and re-deploying software.
+> SCUBA diving.
