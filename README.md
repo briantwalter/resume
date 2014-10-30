@@ -1,7 +1,7 @@
 # resume for @briantwalter
 
 ### summary
-> Values functional solutions over rigid processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation and preparation is time management.  Favors speed with feedback over perfection.  Actively evolved from observe to participate to shape to experiment.
+> Values functional solutions over rigid processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assigment.  Believes anticipation and preparation is time management.  Favors speed with feedback over perfection.  Actively evolved from observe to participate to shape to experiment in all things technology.
 
 ### employment
 EMC Corporation **Advisory Systems Engineer** *2007-present*
