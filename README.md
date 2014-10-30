@@ -46,7 +46,7 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
-> Confident presense when `public speaking` `handling objections` `negotiating`
+> Confident presense when `public speaking` `presenting on whiteboards` `handling objections` `negotiating`
 
 > Anxious to do more with `spark` `hadoop` `memcached` `golang` `libvirt` `docker` `angular.js`
 
