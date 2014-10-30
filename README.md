@@ -42,7 +42,7 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 
 > Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `SAN/NAS`
 
-> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere` `vSphere` `KVM`
+> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Java/J2EE` `Weblogic` `Websphere` `vSphere` `KVM`
 
 > Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
 
