@@ -50,7 +50,7 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 
 > Confident presense when `public speaking` `presenting on whiteboards` `handling objections` `negotiating`
 
-> Anxious to do more with `spark` `hadoop` `memcached` `golang` `libvirt` `docker` `angular.js`
+> Anxious to do more with `Spark` `Hadoop` `memcached` `golang` `libvirt` `Docker` `Angular.js` `Arduino`
 
 ### passions
 > Making nice things and having them.
