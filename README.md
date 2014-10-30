@@ -36,7 +36,7 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 ### skills
 > Comfortable programming in `bash` `perl` `nodejs` `javascript` `python` `php` `html`
 
-> Can write queries in `MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase`
+> Can write queries in `MariaDB/MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase` `REST/JSON`
 
 > Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure`
 
