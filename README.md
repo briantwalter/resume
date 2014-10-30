@@ -23,9 +23,9 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 > B.A. LUS Geographic Information Systems, Metropolitan State College, Denver (1999)
 
 ### certifications
-> **EMC Proven Information Infrastructure Expert**, EMC (2013)
-
 > **VMware Certified Professional VCP5**, VMware  (2013)
+
+> **EMC Proven Information Infrastructure Expert**, EMC (2013)
 
 > **EMC Proven Information Infrastructure Specialist**, EMC (2009)
 
@@ -34,13 +34,13 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 > **ITIL Service Management Essentials**, Pink Elephant (2006)
 
 ### skills
-> Comfortable programming in `bash` `perl` `nodejs` `python` `php` `html`
+> Comfortable programming in `bash` `perl` `nodejs` `javascript` `python` `php` `html`
 
 > Can write queries in `MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase`
 
 > Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure`
 
-> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `SAN`
+> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `SAN/NAS`
 
 > Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Weblogic` `Websphere` `vSphere` `KVM`
 
