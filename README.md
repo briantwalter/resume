@@ -40,11 +40,13 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 
 > Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure`
 
-> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `SAN/NAS`
+> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `VMware` `SAN/NAS`
 
 > Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Java/J2EE` `Weblogic` `Websphere` `vSphere` `KVM`
 
-> Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel`
+> Fluent with tools such as `git` `Wireshark/tcpdump` `Tableau Desktop` `Excel` `vCO/vCAC` 
+
+> Active user of platforms like `AWS/S3/Route53/CloudFront` `GCE/GAE` `Heroku` `Pivotal Web Services`
 
 > Confident presense when `public speaking` `presenting on whiteboards` `handling objections` `negotiating`
 
