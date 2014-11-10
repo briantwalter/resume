@@ -5,10 +5,10 @@
 
 ### employment
 EMC Corporation **Advisory Systems Engineer** *2007-present*
-> Senior technical presales resource with awards for engineering contributions to the flagship storage product, top revenue attainment in the Western US, and member of the presales advisory council comprised of roughly 30 engineers hand picked from around the world.  Earned EMC Proven certification on my 6th day of work, making me only the 3rd (out of 16) of my peer group who had passed the exam.
+> Senior technical presales resource with awards for engineering contributions to the flagship storage product, top revenue attainment in the Western US, and member of the presales advisory council comprised of roughly 30 engineers hand picked from around the world.  Earned EMC Proven certification on my 6th day of work, making me only the 3rd (out of 16) of my peer group who had passed the exam.  Trusted advisor for enterprise customers in the Seattle area, including three Fortune 100 retailers. Responsibilities include product positioning, leading technical presentations, scoping for professional services, and developing infrastructure architecture for customers. Facilitated technical discussions, requirements gathering, and generation of sales opportunities with account executives leading to over $30M in top-line revenue annually. Designed, developed, and implemented a real time pricing tool for consulting engagements that allows field personnel quick, “what if?” scenario planning of blended margins with multiple, distinct, billable resources. Built business and personal relationships with coworkers and customers to strengthen delivery of products and services as well as shorten sales cycles. Built and delivered total cost of ownership models and storage capacity forecasts to customers that articulates their return on investment and value gained from proposed products and services.
 
 Port of Seattle **Manager, System Operations** *2005-2007*
-> Front-line manager for three technical teams totaling sixteen direct reports while other direct managers had less than seven.  Annual operational budget of $1M, with reductions in operational expense in excess of 20% YoY while other groups saw upwards of 30% increase in expenses.  Acted as both player and coach.  Did invidiual performance reviews and also wrote production code for ERP reporting and flight management system.  Instituted incident management process measured with KPIs while infrastructure and development teams where operating ad-hoc without business metrics.  Day 1 on the job there was (73) open tickets assigned to my team.  On my last day there was (0) with a forecast to be neutral on a bi-weekly basis.
+> Front-line manager for three technical teams totaling sixteen direct reports while other direct managers had less than seven.  Annual operational budget of $1M, with reductions in operational expense in excess of 20% YoY while other groups saw upwards of 30% increase in expenses.  Acted as both player and coach.  Did invidiual performance reviews and also wrote production code for ERP reporting and flight management system.  Instituted incident management process measured with KPIs while infrastructure and development teams where operating ad-hoc without business metrics.  Day 1 on the job there was (73) open tickets assigned to my team.  On my last day there was (0) with a forecast to be neutral on a bi-weekly basis.Recruited and managed a full-time staff of sixteen systems, database, and ERP engineers supporting the corporate, aviation, seaport, and economic development divisions. Responsible for over $1M in salaries and $4.5M in operating budget for implementing and maintaining over 180 foundational and revenue generating applications. Designed and instituted an incident response process and user experience monitoring for rapid service restoration. Decreased average incident closure time by 65% during first 45 days and realized a 55% overall ticket reduction in 12 months by implementing a knowledge base, using mobile messaging, and a standardized Service Desk triage. Organized with peer IT managers to implement and champion ITIL best practices including configuration, incident, problem, change, and release management. Responsible for Service Delivery activities such as service level, capacity, and availability management. Authored business cases and managed capital projects that included database consolidation, data modeling tools, records management, and enterprise search.
 
 Bank of America **Systems Architect/Engineer** *2002-2004*
 > Managed technical operations of production global foreign exchange and global equities trading platforms. Organized virtual teams in multiple geographies on monitoring initiatives. Developed a feature rich, web-based application for tracking and reporting client-impacting events producing daily figures and monthly executive summaries. Designed and deployed database infrastructure for recording and reporting operational statistics. Instituted business service monitoring techniques for online transaction processing applications allowing for early problem detection, rapid restoration, and fault analysis. Automated distributed application tasks such as conditional process restarts, routine database maintenance, and software code releases. Implemented written procedures and detailed responses to monitoring events and alarms. Drafted service level agreements between operations groups and internal business partners.
@@ -53,14 +53,12 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 > Anxious to do more with `Spark` `Hadoop` `memcached` `golang` `libvirt` `Docker` `Angular.js` `Arduino`
 
 ### passions
-> Making nice things and having them.
+> Making nice things and almost anything DIY.
 
-> Connecting all the things with APIs.
+> Connecting and automating all the things with APIs.
 
-> Microcontrollers and IoT.
+> Microcontrollers, machine learning, data, and IoT.
 
-> Data driven decision making.
+> Contributing, writing, and using software.
 
-> Contributing and using software.
-
-> SCUBA diving.
+> SCUBA diving and adventure sports.
