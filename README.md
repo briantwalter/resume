@@ -1,10 +1,13 @@
 # resume for @briantwalter
 
 ### summary
-> Values functional solutions over rigid processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assignment.  Believes anticipation and preparation is time management.  Favors speed with feedback over perfection.  Career has evolved from observe to participate to shape to experiment in all things technology.  Sees agile as a way of life.
+> Values functional solutions over rigid processes.  Views challenges as puzzles rather than obstacles.  Prefers volunteering over assignment.  Believes anticipation and preparation is time management.  Favors speed with feedback over perfection.  Career has evolved from observe to participate to shape to experiment in all things technology. 
 
 ### employment
-EMC Corporation **Advisory Systems Engineer** *2007-present*
+Cloudera **Senior Systems Engineer** *2015-present*
+> 
+
+EMC Corporation **Advisory Systems Engineer** *2007-2015*
 > Senior technical presales resource with awards for engineering contributions to the core storage product, top revenue attainment in the Western US, and member of the presales advisory council comprised of roughly 30 engineers hand picked from around the world.  Earned EMC Proven certification on my 6th day of work, making me only the 3rd (out of 16) of my peer group who had passed the exam.  Trusted advisor for enterprise customers in the Seattle area and Western US. Responsibilities include product positioning, leading technical presentations, scoping for professional services, and developing infrastructure architecture for customers. Facilitated technical discussions, requirements gathering, and generation of sales opportunities with account executives leading to over $30M in top-line revenue annually. Designed, developed, and implemented a real time pricing tool for consulting engagements that allows field personnel quick, “what if?” scenario planning of blended margins with multiple, distinct, billable resources. Built business and personal relationships with coworkers and customers to strengthen delivery of products and services as well as shorten sales cycles. Built and delivered total cost of ownership models and storage capacity forecasts to customers that articulates their return on investment and value gained from proposed products and services.
 
 Port of Seattle **Manager, System Operations** *2005-2007*
@@ -20,6 +23,10 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 > Responsible for server administration, network services, development infrastructure, and support. Automated rapid server installs with Jump Start, Ignite-UX, and Kick start reducing time to deployment. Configured TCP/IP services: DHCP, DNS, HTTP, LPD, NFS, NIS, SMTP, and SSH. Deployed VPN concentrators, firewalls, content filtering proxy servers, and intrusion detection systems. Secured and patched operating systems, vulnerable services, and applications.
 
 ### community 
+> Volunteer Speaker, **Cloudera Sessions**, Denver and Seattle (2016)
+
+> Volunteer Speaker, **Seattle Spark Meetup**, Meetup (2015)
+
 > Volunteer Speaker, **Seattle Code Camp**, Seattle University (2014)
 
 > Volunteer Speaker, **EMC Users Group**, Seattle (2014)
@@ -39,28 +46,28 @@ Lucent Technologies **UNIX Systems Engineer** *2000-2001*
 > **ITIL Service Management Essentials**, Pink Elephant (2006)
 
 ### skills
-> Comfortable programming in `bash` `perl` `nodejs` `javascript` `python` `php` `html`
+> Comfortable programming in `bash` `perl` `nodejs` `javascript` `python` `php` `spark` `html`
 
-> Can write queries in `MariaDB/MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Sybase` `REST/JSON`
+> Can write queries in `MariaDB/MySQL` `PostgreSQL` `Oracle` `MS SQL Server` `Hive` `Impala` `Sybase` `REST/JSON`
 
-> Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure`
+> Accomplished designer of `distributed systems` `cloud-native applications` `converged infrastructure` `big data applications`
 
-> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `VMware` `SAN/NAS`
+> Administration savvy in `Linux` `Solaris` `Windows` `Mac OSX` `OpenStack` `Cloud Foundry` `Hadoop` `Cloudera` `VMware` `SAN/NAS`
 
-> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Java/J2EE` `Weblogic` `Websphere` `vSphere` `KVM`
+> Troubleshooting expert in `TCP/IP` `Apache` `Nginx` `Java/J2EE` `Hadoop` `Cloudera` `Weblogic` `Websphere` `vSphere` `KVM`
 
-> Fluent with tools such as `git` `curl` `Wireshark/tcpdump` `Tableau Desktop` `Excel` `vCO/vCAC` 
+> Fluent with tools such as `git` `curl` `Wireshark/tcpdump` `Tableau Desktop` `Excel` `vCO/vCAC` `Jupyter` `Hue` `Apache Zeppelin`
 
-> Active user of platforms like `AWS/S3/Route53/CloudFront` `GCE/GAE` `Heroku` `Cloud Foundry`
+> Active user of platforms like `AWS/S3/Route53/CloudFront` `GCE/GAE` `Azure` `Heroku` `Cloud Foundry`
 
 > Confident presence when `public speaking` `presenting on whiteboards` `handling objections` `negotiating`
 
-> Anxious to do more with `Spark` `Hadoop` `memcached` `golang` `libvirt` `Docker` `Angular.js` `Arduino`
+> Anxious to do more with `Spark MLlib` `Hadoop` `Apache Beam` `TensorFlow` `golang` `Docker` `Angular.js` `Arduino`
 
 ### passions
 > Making nice things and almost anything DIY.
 
-> Connecting and automating all the things with APIs.
+> Connecting and automating things with APIs.
 
 > Microcontrollers, machine learning, data, and IoT.
 
